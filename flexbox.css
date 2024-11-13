@@ -1,0 +1,18 @@
+1{
+    text-align: center;
+    font-size: 24px;
+    color: blue;
+    font-family: 'Courier New', Courier, Monospace;
+    letter-spacing: 5px;
+}
+fieldset,legend {
+    border: 10px ridge rgb(49, 34, 16);
+    padding: 5px 10px;
+    border-radius: 45px;
+}
+legend{
+    background-color:rgb(12, 136, 145)
+}
+fieldset{
+    background-color: rgb(176, 179, 20);
+}
